@@ -1,3 +1,19 @@
-shorturls.db
 .project
-Gemfile.lock
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+shorturls.db
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db

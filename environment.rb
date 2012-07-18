@@ -10,7 +10,7 @@ require 'sinatra' unless defined?(Sinatra)
 configure do
 
   SiteConfig = OpenStruct.new(
-          :title => 'URL Shortener',
+          :title => 'Sinatra Shortener',
           :author => 'Your Name Can Go Here',
           :url_base => 'http://localhost:4567/' # the url of your application
         )
