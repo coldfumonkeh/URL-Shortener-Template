@@ -1,0 +1,1 @@
+The spec folder will hold our rspec tests
